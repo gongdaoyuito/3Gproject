@@ -1,0 +1,12 @@
+#daimei {     
+  position: relative;     
+  top: 15px;     
+  text-align: center;     
+  font-size: large;     
+  width: 450px;     
+  left: 330px; 
+}
+.video {     
+  width: 640;     
+  height: 360; 
+}
